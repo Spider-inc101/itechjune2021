@@ -6,7 +6,7 @@
     font-family: Arial, Helvetica, sans-serif;
   }
   
-  /* Float four-columns side by side */
+  /* Float four-column side by side */
   .column {
     float: left;
     width: 25%;
@@ -42,7 +42,7 @@
     background-color:yellow;
   }
   #card-four{
-    background-color: green;
+    background-color: rgb(16, 241, 16);
   }
   
   /* Responsive columns - one column layout (vertical) on small screens */
